@@ -1,4 +1,6 @@
-
+#
+![Placeholder](image/placeholderfedora.png)
+#
 
 **DE:** Gnome / Mutter
 
