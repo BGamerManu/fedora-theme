@@ -1,6 +1,4 @@
-#
-![gif](image/optimized.gif)
-#
+
 
 **DE:** Gnome / Mutter
 
@@ -15,4 +13,7 @@
 **Shell:** zsh with oh-my-zsh (plugins: k, zsh-autosuggestions)
 
 ## Cambiamenti a differenza della repo di ImOnlyFire
-Boh per il momento non lo so, ma quando farò cambiamenti rispetto al theme di ImOnlyFire li metterò in questo fork
+- Sfondo di Cracovia (PL)
+- [FUTURO] Dock personalizzabile via pannello
+- [FUTURO] Rimozione Dash to dock
+- [FUTURO] Aggiunta Dash to panel
