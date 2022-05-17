@@ -19,3 +19,4 @@
 - [FUTURO] Dock personalizzabile via pannello
 - [FUTURO] Rimozione Dash to dock
 - [FUTURO] Aggiunta Dash to panel
+- [FUTURO] [Come mettersi le mani in culo](https://youtu.be/Atw7PUyC_2k)
