@@ -15,7 +15,8 @@
 **Shell:** zsh with oh-my-zsh (plugins: k, zsh-autosuggestions)
 
 ## Cambiamenti a differenza della repo di ImOnlyFire
-- Sfondo di Cracovia (PL)
+- Sfondo / Santino di Gerry Scotti
+- [FUTURO] Sfondo / Santino di Paolo Bonolis
 - [FUTURO] Dock personalizzabile via pannello
 - [FUTURO] Rimozione Dash to dock
 - [FUTURO] Aggiunta Dash to panel
