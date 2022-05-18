@@ -1,6 +1,4 @@
-#
-![Placeholder](image/placeholderfedora.png)
-#
+<img src="image/placeholderfedora.png" alt="Paris" class="center" width="365" height="220">
 
 **DE:** Gnome / Mutter
 
