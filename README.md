@@ -2,13 +2,13 @@
 
 **DE:** Gnome / Mutter
 
-**Theme:** Orchis purple dark compact
+**Theme:** Orchis red dark compact
 
 **Icon theme:** Papirus dark
 
 **Extensions:** https://imgur.com/a/pVHS3TV
 
-**Wallpaper:** wallpaper folder (1920x1080)
+**Wallpaper:** [Clicca qui per vedere quelli disponibili](https://github.com/BGamerManu/fedora-theme/tree/master/wallpaper)
 
 **Shell:** zsh with oh-my-zsh (plugins: k, zsh-autosuggestions)
 
@@ -18,4 +18,3 @@
 - [FUTURO] Dock personalizzabile via pannello
 - [FUTURO] Rimozione Dash to dock
 - [FUTURO] Aggiunta Dash to panel
-- [FUTURO] [Come mettersi le mani in culo](https://youtu.be/Atw7PUyC_2k)
